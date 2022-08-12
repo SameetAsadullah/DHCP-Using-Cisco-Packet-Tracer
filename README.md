@@ -1,7 +1,7 @@
 <h1 align="center">DHCP Using Cisco Packet Tracer</h1>
 
 ### Description
-Implemented a demo topologies to describe `Dynamic Host Configuration Protocol (DHCP)` using `Cisco Packet Tracer`.
+Implemented a demo topology to describe `Dynamic Host Configuration Protocol (DHCP)` using `Cisco Packet Tracer`.
 
 ### Topology
 <div align="center">
